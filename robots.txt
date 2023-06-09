@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /js
+Disallow: /images
+Disallow: /css
+Sitemap: https://elitesecure.in/sitemap.xml
